@@ -1,7 +1,7 @@
 # PanCollection
 
 ## -> Pansharpening Datasets
-## -> WorldView 2,  WorldView 3,  QiuckBird,  Gaofen 2 sensors
+## -> WorldView 2,  WorldView 3,  QuickBird,  Gaofen 2 sensors
 
 * **Chinese Webpage:** https://liangjiandeng.github.io/PanCollection.html
 
@@ -21,9 +21,9 @@
   | Testing Dataset (ReducedData, mat Format) | https://pan.baidu.com/s/1XPYab7B_8wLSIKeN3Phj5w?pwd=1234#list/path=%2F | 20 examples     |
   | Testing Dataset (FullData, mat Format)    | https://pan.baidu.com/s/1isoPLZ_Wnkrubnb38sa4Qg?pwd=1234#list/path=%2F | 20 examples     |
 
-* The training and testing datasets for **QiuckBird**:
+* The training and testing datasets for **QuickBird**:
 
-  | **QiuckBird** Dataset                   | Link                                            | Size |
+  | **QuickBird** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
   | ***Training Dataset***                    | https://pan.baidu.com/s/1lWmRpTZoMpwlyFZ5UjSzRg?pwd=1234#list/path=%2F | 5.37GB     |
   | Testing Dataset (ReducedData, H5 Format)  | https://pan.baidu.com/s/1OHUTvuyQJ-QTbl_kuAhxNA?pwd=1234#list/path=%2F | 20 examples     |
