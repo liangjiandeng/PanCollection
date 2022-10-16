@@ -16,7 +16,7 @@
 
   | **WorldView 3** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
-  | ***Training Dataset***                         | https://pan.baidu.com/s/18IlBDl4Xq7BdSn6XXYNoJg?pwd=1234#list/path=%2F | 5.76GB     |
+  | ***Training Dataset***                    | https://pan.baidu.com/s/18IlBDl4Xq7BdSn6XXYNoJg?pwd=1234#list/path=%2F | 5.76GB     |
   | Testing Dataset (ReducedData, H5 Format)  | https://pan.baidu.com/s/1vh3ZxAovRRw_j10MBR_Pmg?pwd=1234#list/path=%2F | 20 examples     |
   | Testing Dataset (FullData, H5 Format)     | https://pan.baidu.com/s/1AaSSMtk0AnlK_qBS8te8pA?pwd=1234#list/path=%2F | 20 examples     |
   | Testing Dataset (ReducedData, mat Format) | https://pan.baidu.com/s/1XPYab7B_8wLSIKeN3Phj5w?pwd=1234#list/path=%2F | 20 examples     |
@@ -26,7 +26,7 @@
 
   | **QiuckBird** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
-  | Training Dataset                          | https://pan.baidu.com/s/1lWmRpTZoMpwlyFZ5UjSzRg?pwd=1234#list/path=%2F | 5.37GB     |
+  | ***Training Dataset***                    | https://pan.baidu.com/s/1lWmRpTZoMpwlyFZ5UjSzRg?pwd=1234#list/path=%2F | 5.37GB     |
   | Testing Dataset (ReducedData, H5 Format)  | https://pan.baidu.com/s/1OHUTvuyQJ-QTbl_kuAhxNA?pwd=1234#list/path=%2F | 20 examples     |
   | Testing Dataset (FullData, H5 Format)     | https://pan.baidu.com/s/1IROZUFI3uh1uZz8IYV0cGw?pwd=1234#list/path=%2F | 20 examples     |
   | Testing Dataset (ReducedData, mat Format) | https://pan.baidu.com/s/1dAQddkjxqrmTnLweDhjnXg?pwd=1234#list/path=%2F | 20 examples     |
@@ -37,7 +37,7 @@
 
   | **Gaofen 2** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
-  | Training Dataset                          | https://pan.baidu.com/s/1d70Ld7q2xDnvn4MqP1rtVA?pwd=1234#list/path=%2F | 6.21GB     |
+  | ***Training Dataset***                    | https://pan.baidu.com/s/1d70Ld7q2xDnvn4MqP1rtVA?pwd=1234#list/path=%2F | 6.21GB     |
   | Testing Dataset (ReducedData, H5 Format)  | https://pan.baidu.com/s/17NauhNaYgTeOiScrqceLIg?pwd=1234#list/path=%2F | 20 examples     |
   | Testing Dataset (FullData, H5 Format)     | https://pan.baidu.com/s/1sAVmBROQMUvKCqZuL5xJNw?pwd=1234#list/path=%2F | 20 examples     |
   | Testing Dataset (ReducedData, mat Format) | https://pan.baidu.com/s/1riP96z0o4PchH5VJxnESMQ?pwd=1234#list/path=%2F | 20 examples     |
@@ -54,7 +54,7 @@
 
 # Reference
 
-If use these datasets, please cite the related paper:
+More details about the similation procedure of datasets, you may check the following two papers:
 
 ```bibtex
 @ARTICLE{zhuo2022jstars,
@@ -75,7 +75,7 @@ If use these datasets, please cite the related paper:
 
 # Contact:
 
-We are glad to hear from you. If you have any questions, please feel free to contact Yuuweii@yeah.net.
+We are glad to hear from you. If you have any questions, please feel free to contact wxwsx1997@qq.com.
 
 
 
