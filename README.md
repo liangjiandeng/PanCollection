@@ -12,9 +12,9 @@
 
 * Use [[Baidu Cloud](https://pan.baidu.com/pcloud/home)] to download these datasets.
 
-* The simulated training and testing datasets for WorldView 3:
+* The simulated training and testing datasets for **WorldView 3**:
 
-  | Dataset                                   | Link                                            | Size |
+  | **WorldView 3** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
   | Training Dataset                          | https://pan.baidu.com/s/18IlBDl4Xq7BdSn6XXYNoJg?pwd=1234#list/path=%2F | 5.76GB     |
   | Testing Dataset (ReducedData, H5 Format)  | https://pan.baidu.com/s/1vh3ZxAovRRw_j10MBR_Pmg?pwd=1234#list/path=%2F | 20 examples     |
