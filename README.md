@@ -1,7 +1,7 @@
 # PanCollection
 
-## -> Datasets for pansharpening, 
-## -> WorldView 2,  WorldView 3,  QiuckBird,  Gaofen 2 sensors.
+## -> Pansharpening Datasets
+## -> WorldView 2,  WorldView 3,  QiuckBird,  Gaofen 2 sensors
 
 * **Chinese Webpage:** https://liangjiandeng.github.io/PanCollection.html
 
