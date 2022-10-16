@@ -57,18 +57,31 @@
 More details about the similation procedure of datasets, you may check the following two papers:
 
 ```bibtex
-@ARTICLE{zhuo2022jstars,
-  author={Zhuo, Yu-Wei and Zhang, Tian-Jing and Hu, Jin-Fan and Dou, Hong-Xia and Huang, Ting-Zhu and Deng, Liang-Jian},
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={},
-  doi={10.1109/JSTARS.2022.3202866}
-}
+@ARTICLE{dengjig2022,
+	author={邓良剑，冉燃，吴潇，张添敬},
+	journal={中国图象图形学报},
+	title={遥感图像全色锐化的卷积神经网络方法研究进展},
+ 	year={2022},
+  	volume={},
+  	number={9},
+  	pages={},
+  	doi={10.11834/jig.220540}
+   }
 ```
+and
 
+```bibtex
+@ARTICLE{deng2022vivone,
+	author={L. -J. Deng, G. Vivone, M. E. Paoletti, G. Scarpa, J. He, Y. Zhang, J. Chanussot, and A. Plaza},
+	journal={IEEE Geoscience and Remote Sensing Magazine}, 
+	title={Machine Learning in Pansharpening: A Benchmark, from Shallow to Deep Networks}, 
+	year={2022},
+	volume={},
+	number={},
+	pages={2-38},
+	doi={10.1109/MGRS.2020.3019315}
+   }
+```
 
 
 
