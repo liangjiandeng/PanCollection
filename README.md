@@ -67,7 +67,7 @@
   | Testing Dataset (ReducedData, mat Format) | [[download link](https://pan.baidu.com/s/1riP96z0o4PchH5VJxnESMQ?pwd=1234#list/path=%2F)]  | 20 examples     |
   | Testing Dataset (FullData, mat Format)    | [[download link](https://pan.baidu.com/s/1vzdNHSsKMZ2nFEiKO3swIQ?pwd=1234#list/path=%2F)]  | 20 examples     |
   
- ### (4)  The training and testing datasets for ``WorldView 2``:
+ ### (4)  The testing datasets for ``WorldView 2``:
 
   | **WorldView 2** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
