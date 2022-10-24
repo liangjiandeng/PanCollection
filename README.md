@@ -7,7 +7,7 @@
 
 
 
-# Download by Google Drive
+# Download by ``Google Drive``
 
 * The training and testing datasets for **WorldView 3**:
 
