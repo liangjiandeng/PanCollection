@@ -1,7 +1,6 @@
 # PanCollection
 
-## -> Pansharpening Datasets
-## -> WorldView 2,  WorldView 3,  QuickBird,  Gaofen 2 sensors
+##  Pansharpening Datasets from WorldView 2,  WorldView 3,  QuickBird,  Gaofen 2 sensors
 
 * **Chinese Webpage:** https://liangjiandeng.github.io/PanCollection.html
 
@@ -19,6 +18,7 @@
   | Testing Dataset (ReducedData, mat Format) |  [[download link](https://drive.google.com/drive/folders/1bhSQ5qDmwnQGkibQAt_M6ZBoF8_7YZ2n?usp=sharing)]  | 20 examples     |
   | Testing Dataset (FullData, mat Format)    |  [[download link](https://drive.google.com/drive/folders/16pGIqvwWfyQVvkk3s1xrwLpavqQd0Bv7?usp=sharing)]  | 20 examples     |
   
+  ``Note: H5 files are with same data as mat Data``
   
   
  * The training and testing datasets for **QuickBird**:
