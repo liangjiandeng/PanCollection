@@ -4,7 +4,7 @@
 
 * **Chinese Webpage:** https://liangjiandeng.github.io/PanCollection.html
 
-
+* **Recommendation:** Use code-toolbox ``DLPan-Toolbox`` + dataset ``PanCollection`` for your training and testing!
 
 ## Download by ``Google Drive``
 
@@ -41,6 +41,18 @@
   | Testing Dataset (FullData, H5 Format)     |  [[download link](https://drive.google.com/drive/folders/17ZI94qlPXhsKE3iw94RHcSNPSeRNv3_L?usp=sharing)]  | 20 examples     |
   | Testing Dataset (ReducedData, mat Format) |  [[download link](https://drive.google.com/drive/folders/1y7S7qPF07k7pRudyi9KSuAPAXk2wiz1O?usp=sharing)]  | 20 examples     |
   | Testing Dataset (FullData, mat Format)    |  [[download link](https://drive.google.com/drive/folders/1GMePYYHhQARDOGfeTv6cHqfxCck4XU5U?usp=sharing)]  | 20 examples     |
+  
+  
+ ### (4)  The training and testing datasets for ``WorldView 2``:
+
+  | **WorldView 2** Dataset                   | Link                                            | Size |
+  | ----------------------------------------- | ----------------------------------------------- | -------- |
+  | Testing Dataset (ReducedData, H5 Format)  | [[download link](https://drive.google.com/drive/folders/1bpx99ewDRhe8jgAnr4XUMxvb2PqMxKk4?usp=sharing)]  | 20 examples     |
+  | Testing Dataset (FullData, H5 Format)     | [[download link](https://drive.google.com/drive/folders/1uIYVnceftT3KjM_WRLwMpy0IOgpNmMIv?usp=sharing)]   | 20 examples     |
+  | Testing Dataset (ReducedData, mat Format) | [[download link](https://drive.google.com/drive/folders/1NZ1LJKIAZpOU7CnKbJxAxz0SOLOF6OWT?usp=sharing)]  | 20 examples     |
+  | Testing Dataset (FullData, mat Format)    | [[download link](https://drive.google.com/drive/folders/1wDBTv8ZBDEkcN1rDuPOwTqTE3rwmtsAd?usp=sharing)]  | 20 examples     |  
+
+``Note: This data is only used for the test of network generalization, thus no training dataset!``
   
   
   
