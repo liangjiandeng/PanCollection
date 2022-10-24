@@ -4,7 +4,7 @@
 
 * **Chinese Webpage:** https://liangjiandeng.github.io/PanCollection.html
 
-* **Recommendation:** Use code-toolbox ``[DLPan-Toolbox](https://github.com/liangjiandeng/DLPan-Toolbox)`` + dataset ``[PanCollection](https://github.com/liangjiandeng/PanCollection)`` for your training and testing!
+* **Recommendation:** Use code-toolbox [[DLPan-Toolbox](https://github.com/liangjiandeng/DLPan-Toolbox)] + dataset [[PanCollection](https://github.com/liangjiandeng/PanCollection)] for your training and testing!
 
 ## Download by ``Google Drive``
 
