@@ -7,7 +7,20 @@
 
 
 
-# Dataset Details
+# Download by Google Drive
+
+* The training and testing datasets for **WorldView 3**:
+
+  | **WorldView 3** Dataset                   | Link                                            | Size |
+  | ----------------------------------------- | ----------------------------------------------- | -------- |
+  | ***Training Dataset***                    | [[download link](https://drive.google.com/drive/folders/1CHs49xius3zH3PIrAxAkbNfKEy82_fMb?usp=sharing)]  | 5.76GB|
+  | Testing Dataset (ReducedData, H5 Format)  |  [[download link](https://drive.google.com/drive/folders/1EYjaAxTheNPvukvifKXMq8m_dJ-8qz8G?usp=sharing)]  | 20 examples     |
+  | Testing Dataset (FullData, H5 Format)     |  [[download link](https://drive.google.com/drive/folders/1x3b3ERBXKGXncTRL3gKcidV5BBdG2QjC?usp=sharing)]  | 20 examples     |
+  | Testing Dataset (ReducedData, mat Format) |  [[download link](https://drive.google.com/drive/folders/1bhSQ5qDmwnQGkibQAt_M6ZBoF8_7YZ2n?usp=sharing)]  | 20 examples     |
+  | Testing Dataset (FullData, mat Format)    |  [[download link](https://drive.google.com/drive/folders/16pGIqvwWfyQVvkk3s1xrwLpavqQd0Bv7?usp=sharing)]  | 20 examples     |
+  
+  
+# Download by Baidu Cloud
 
 * Use [[Baidu Cloud](https://pan.baidu.com/pcloud/home)] to download these datasets.
 
