@@ -31,6 +31,17 @@
   | Testing Dataset (ReducedData, mat Format) |  [[download link](https://drive.google.com/drive/folders/1HQJZfms9V0mduQulouuf_46bs9daQnkp?usp=sharing)]  | 20 examples     |
   | Testing Dataset (FullData, mat Format)    |  [[download link](https://drive.google.com/drive/folders/1bTmEpPksnQjcyjKHJ-nORQwJkIqazml1?usp=sharing)]  | 20 examples     |
   
+
+ ### (3)  The training and testing datasets for ``Gaofen 2``:
+
+  | **Gaofen 2** Dataset                   | Link                                            | Size |
+  | ----------------------------------------- | ----------------------------------------------- | -------- |
+  | ***Training Dataset***                    | [[download link](https://drive.google.com/drive/folders/1gNV7BlGy06ee0BqgxBfFMNnfzGrPTA9K?usp=sharing)]  | 6.21GB|
+  | Testing Dataset (ReducedData, H5 Format)  |  [[download link](https://drive.google.com/drive/folders/1g4f2NElV7By2gWhCavrDaglzCxiDT6CP?usp=sharing)]  | 20 examples     |
+  | Testing Dataset (FullData, H5 Format)     |  [[download link](https://drive.google.com/drive/folders/17ZI94qlPXhsKE3iw94RHcSNPSeRNv3_L?usp=sharing)]  | 20 examples     |
+  | Testing Dataset (ReducedData, mat Format) |  [[download link](https://drive.google.com/drive/folders/1y7S7qPF07k7pRudyi9KSuAPAXk2wiz1O?usp=sharing)]  | 20 examples     |
+  | Testing Dataset (FullData, mat Format)    |  [[download link](https://drive.google.com/drive/folders/1GMePYYHhQARDOGfeTv6cHqfxCck4XU5U?usp=sharing)]  | 20 examples     |
+  
   
   
 ## Download by ``Baidu Cloud``
