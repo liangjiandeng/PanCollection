@@ -21,7 +21,7 @@
   ``Note: H5 files have same data with mat files (but with different formats) which can be used for single image test``
   
   
- * The training and testing datasets for **QuickBird**:
+ ### (2)  The training and testing datasets for ``QuickBird``:
 
   | **QuickBird** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
@@ -37,7 +37,7 @@
 
 * Use [[Baidu Cloud](https://pan.baidu.com/pcloud/home)] to download these datasets.
 
-* The training and testing datasets for **WorldView 3**:
+### (1)  The training and testing datasets for ``WorldView 3``:
 
   | **WorldView 3** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
@@ -47,7 +47,7 @@
   | Testing Dataset (ReducedData, mat Format) |  [[download link](https://pan.baidu.com/s/1XPYab7B_8wLSIKeN3Phj5w?pwd=1234#list/path=%2F)]  | 20 examples     |
   | Testing Dataset (FullData, mat Format)    |  [[download link](https://pan.baidu.com/s/1isoPLZ_Wnkrubnb38sa4Qg?pwd=1234#list/path=%2F)]  | 20 examples     |
 
-* The training and testing datasets for **QuickBird**:
+### (2)  The training and testing datasets for ``QuickBird``:
 
   | **QuickBird** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
@@ -57,7 +57,7 @@
   | Testing Dataset (ReducedData, mat Format) | [[download link](https://pan.baidu.com/s/1dAQddkjxqrmTnLweDhjnXg?pwd=1234#list/path=%2F)]  | 20 examples     |
   | Testing Dataset (FullData, mat Format)    | [[download link](https://pan.baidu.com/s/1EI-iH08_7g8cgeiJ6mZdIQ?pwd=1234#list/path=%2F)]  | 20 examples     |
 
- * The training and testing datasets for **Gaofen 2**:
+ ### (3)  The training and testing datasets for ``Gaofen 2``:
 
   | **Gaofen 2** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
@@ -67,7 +67,7 @@
   | Testing Dataset (ReducedData, mat Format) | [[download link](https://pan.baidu.com/s/1riP96z0o4PchH5VJxnESMQ?pwd=1234#list/path=%2F)]  | 20 examples     |
   | Testing Dataset (FullData, mat Format)    | [[download link](https://pan.baidu.com/s/1vzdNHSsKMZ2nFEiKO3swIQ?pwd=1234#list/path=%2F)]  | 20 examples     |
   
- * The training and testing datasets for **WorldView 2** (only used for the test of network generalization, thus no training dataset):
+ ### (4)  The training and testing datasets for ``WorldView 2``:
 
   | **WorldView 2** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
@@ -75,6 +75,8 @@
   | Testing Dataset (FullData, H5 Format)     | [[download link](https://pan.baidu.com/s/1-LvVyUtsvOa1pxoOI_jD5w?pwd=1234#list/path=%2F)]   | 20 examples     |
   | Testing Dataset (ReducedData, mat Format) | [[download link](https://pan.baidu.com/s/1MP2wHS36ldi40B3ECzfA8A?pwd=1234#list/path=%2F)]  | 20 examples     |
   | Testing Dataset (FullData, mat Format)    | [[download link](https://pan.baidu.com/s/13kSG3rV5ZwqbcFlWq0Dvfw?pwd=1234#list/path=%2F)]  | 20 examples     |  
+
+``Note: This data is only used for the test of network generalization, thus no training dataset!``
 
 # Reference
 
