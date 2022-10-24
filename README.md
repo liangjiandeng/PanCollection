@@ -20,6 +20,19 @@
   | Testing Dataset (FullData, mat Format)    |  [[download link](https://drive.google.com/drive/folders/16pGIqvwWfyQVvkk3s1xrwLpavqQd0Bv7?usp=sharing)]  | 20 examples     |
   
   
+  
+ * The training and testing datasets for **QuickBird**:
+
+  | **QuickBird** Dataset                   | Link                                            | Size |
+  | ----------------------------------------- | ----------------------------------------------- | -------- |
+  | ***Training Dataset***                    | [[download link](https://drive.google.com/drive/folders/1Gbk0oaXepD4tuIZIr0PMro4uJ8xUP9vG?usp=sharing)]  | 5.37GB|
+  | Testing Dataset (ReducedData, H5 Format)  |  [[download link](https://drive.google.com/drive/folders/1g4kB3Yxmn6Y8_OCqE1Mra1GoUKCmHOUm?usp=sharing)]  | 20 examples     |
+  | Testing Dataset (FullData, H5 Format)     |  [[download link](https://drive.google.com/drive/folders/1E55TDuIRZlncPbzLSk1RIlYuO03vK2os?usp=sharing)]  | 20 examples     |
+  | Testing Dataset (ReducedData, mat Format) |  [[download link](https://drive.google.com/drive/folders/1HQJZfms9V0mduQulouuf_46bs9daQnkp?usp=sharing)]  | 20 examples     |
+  | Testing Dataset (FullData, mat Format)    |  [[download link](https://drive.google.com/drive/folders/1bTmEpPksnQjcyjKHJ-nORQwJkIqazml1?usp=sharing)]  | 20 examples     |
+  
+  
+  
 ## Download by ``Baidu Cloud``
 
 * Use [[Baidu Cloud](https://pan.baidu.com/pcloud/home)] to download these datasets.
