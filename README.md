@@ -43,7 +43,7 @@
   | Testing Dataset (FullData, mat Format)    |  [[download link](https://drive.google.com/drive/folders/1GMePYYHhQARDOGfeTv6cHqfxCck4XU5U?usp=sharing)]  | 20 examples     |
   
   
- ### (4)  The training and testing datasets for ``WorldView 2``:
+ ### (4)  The testing datasets for ``WorldView 2``:
 
   | **WorldView 2** Dataset                   | Link                                            | Size |
   | ----------------------------------------- | ----------------------------------------------- | -------- |
