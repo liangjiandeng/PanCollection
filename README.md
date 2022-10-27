@@ -2,9 +2,11 @@
 
 ##  Pansharpening Datasets from WorldView 2,  WorldView 3,  QuickBird,  Gaofen 2 sensors
 
-* ``Chinese Webpage:`` https://liangjiandeng.github.io/PanCollection.html
+* [[Chinese Webpage](https://liangjiandeng.github.io/PanCollection.html)]
 
 * ``Recommendation:`` Use the code-toolbox [[DLPan-Toolbox](https://github.com/liangjiandeng/DLPan-Toolbox)] + the dataset [[PanCollection](https://github.com/liangjiandeng/PanCollection)] for fair training and testing!
+
+* Also, a dataset [[HyperPanCollection](https://github.com/liangjiandeng/HyperPanCollection)] for another similar task, i.e., hyperspectral pansharpening!
 
 ## Download by ``Google Drive``
 
