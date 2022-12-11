@@ -8,7 +8,7 @@
 
 * Also, a dataset [[HyperPanCollection](https://github.com/liangjiandeng/HyperPanCollection)] for another similar task, i.e., hyperspectral pansharpening!
 
-* ``Latest Update (Dec. 11, 2022):`` we updated full-resolution test examples that contain more imgae content.)
+* ``Latest Update (Dec. 11, 2022):`` we updated full-resolution test examples that contain more different imgae scenes.
 
 ## Download by ``Google Drive``
 
