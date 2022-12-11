@@ -1,6 +1,6 @@
 # PanCollection
 
-##  Pansharpening Datasets from WorldView 2,  WorldView 3,  QuickBird,  Gaofen 2 sensors
+##  Pansharpening Datasets from WorldView 2,  WorldView 3,  QuickBird,  Gaofen 2 sensors (Latest Update: Dec. 11, 2022, in which we updated full-resolution test examples that contain more imgae content.)
 
 * [[Chinese Webpage](https://liangjiandeng.github.io/PanCollection.html)]
 
