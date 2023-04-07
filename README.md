@@ -131,10 +131,10 @@ and
 	journal={IEEE Geoscience and Remote Sensing Magazine}, 
 	title={Machine Learning in Pansharpening: A Benchmark, from Shallow to Deep Networks}, 
 	year={2022},
-	volume={},
-	number={},
-	pages={2-38},
-	doi={10.1109/MGRS.2020.3019315}
+	volume={10},
+	number={3},
+	pages={279-315},
+	doi={10.1109/MGRS.2022.3187652}
    }
 ```
 
