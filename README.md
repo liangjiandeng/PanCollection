@@ -10,7 +10,7 @@
 
 * ``Latest Update (Dec. 11, 2022):`` we updated full-resolution test examples that contain more different imgae scenes.
 
-* ``Latest Update (Mar. 20, 2023):`` one testing example for WV3 sensor in reduce-resolution format is not consistent with the one in full-resolution format, we have fixed it.
+* ``Latest Update (Mar. 20, 2023):`` one testing example from WV3 sensor in reduce-resolution format is not consistent with the one in full-resolution format, we have fixed it.
 
 ## Download by ``Google Drive``
 
